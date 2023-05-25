@@ -2,7 +2,7 @@ package com.tiendaonline;
 import java.util.Scanner;
 public class ProductoOperaciones {
 	Scanner sc = new Scanner(System.in);
-	public void BajaProducto() {
+	public void baja_producto() {
   System.out.print("holaa");
 		int codigo;
 		String nombre;
