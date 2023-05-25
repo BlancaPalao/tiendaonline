@@ -9,7 +9,7 @@ public class ProductoOperaciones {
 		System.out.println("Dame el codigo del producto");		
 		codigo=sc.nextInt();
 		
-		System.out.println(" O dame el nombre del producto");		
+		System.out.println(" O dame el nombre del productoo");		
 		nombre=sc.next();
 	}
 
