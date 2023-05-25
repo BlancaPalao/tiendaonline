@@ -1,5 +1,4 @@
 package com.tiendaonline;
-
 public class Proveedor{
 	private int cif;
 	private String nombre_empresa;
@@ -10,7 +9,9 @@ public class Proveedor{
 	//
 	 public Proveedor() { }
 	 
-
+public void actualizarProveedor() {
+		
+	}
 	
 	
 	
