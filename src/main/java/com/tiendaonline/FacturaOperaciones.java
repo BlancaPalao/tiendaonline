@@ -8,7 +8,7 @@ public class FacturaOperaciones {
 
         for (Integer i : codigos)
             if (i == codigo) {
-                cambios = "UPDATE factura SET cambios WHERE id_factura = " + cambios;
+                cambios = "UPDATE factura SET " + cambios + " WHERE id_factura = " + codigo;
                 System.out.println(cambios);
                 return true;
             }
