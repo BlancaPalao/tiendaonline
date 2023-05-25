@@ -44,6 +44,6 @@ public class Cliente {
 	public String toString() {
 		return "Cliente [nombre=" + nombre + ", apellido=" + apellido + ", edad=" + edad + "]";
 	}
-	
+
 	
 }
