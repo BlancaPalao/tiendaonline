@@ -16,6 +16,7 @@ public class Dto {
 		
 		
 		if(!clienteExiste(dni)) {
+			
 			bbdd.put(dni, c);
 			return true;
 		}
