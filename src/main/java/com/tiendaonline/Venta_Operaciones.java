@@ -10,7 +10,7 @@ public class Venta_Operaciones
 {
     public static void main( String[] args )
     {
-        System.out.println( "Push realizado desde el Visual Studio Code" );
+        System.out.println( "Push realizado desde eclipse" );
         
         /*Crear una clase DTO para encapsular 
          * la tabla Venta de BBDD y crea una 
