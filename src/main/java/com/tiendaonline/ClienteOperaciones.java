@@ -30,7 +30,7 @@ public class ClienteOperaciones {
 	}
 	
 	public boolean clienteExiste(ArrayList<Cliente> lista_clientes,Cliente c) {
-	
+
 		return lista_clientes.contains(c);
 		
 	}
