@@ -28,7 +28,7 @@ public class Venta_Operaciones
          
     }
     
-    public boolean alta_venta() {
+    public boolean alta_venta(String cdo) {
     	return true;
     	
     }
